@@ -1,13 +1,10 @@
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/davecgh/go-spew/spew v0.0.0-20180221232628-8991bc29aa16/go.mod h1:G7mAYYxgmS0lVkHyy2hEOLQCFB0DlQFTMLWggykrydY=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/pmezard/go-difflib/difflib v0.0.0-20160110105554-792786c7400a/go.mod h1:G7mAYYxgmS0lVkHyy2hEOLQCFB0DlQFTMLWggykrydY=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
-github.com/stretchr/testify/assert v0.0.0-20180609115518-f35b8ab0b5a2/go.mod h1:G7mAYYxgmS0lVkHyy2hEOLQCFB0DlQFTMLWggykrydY=
-golang.org/x/net v0.0.0-20180710190754-d5fb3049416f h1:Nx8t4PXjvQanNOmvQBfaouAVACzOaOtSXYXKHaGWv4Q=
-golang.org/x/net v0.0.0-20180710190754-d5fb3049416f/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
-golang.org/x/net/context v0.0.0-20180710190754-d5fb3049416f/go.mod h1:G7mAYYxgmS0lVkHyy2hEOLQCFB0DlQFTMLWggykrydY=
+golang.org/x/net v0.0.0-20180811021610-c39426892332 h1:efGso+ep0DjyCBJPjvoz0HI6UldX4Md2F1rZFe1ir0E=
+golang.org/x/net v0.0.0-20180811021610-c39426892332/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f h1:wMNYb4v58l5UBM7MYRLPG6ZhfOqbKu7X5eyFl8ZhKvA=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
-golang.org/x/sync/errgroup v0.0.0-20180314180146-1d60e4601c6f/go.mod h1:G7mAYYxgmS0lVkHyy2hEOLQCFB0DlQFTMLWggykrydY=
