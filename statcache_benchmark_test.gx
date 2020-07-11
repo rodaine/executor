@@ -12,7 +12,7 @@ import (
 var sink *uint64
 var statNames [100000000]string
 
-func init() {
+func initStatNames() {
 	sink = new(uint64)
 
 	for i := 0; i < len(statNames); i++ {
